@@ -1,0 +1,31 @@
+.PPanwine {
+  font-size: 30px;
+  margin-left: 50px;
+}
+.Pbutton {
+  margin-right: 50px;
+}
+/* .PProducc {
+  display: flex;
+  flex-direction: row;
+} */
+
+.PProducts {
+  height: 60px;
+  color: #411530;
+}
+
+/* input[type="text"] {
+  width: 406px;
+  height: 60px;
+  background: #ffff;
+  border-radius: 12px;
+} */
+
+/* .Pinput {
+  background-color: white;
+  color: #411530;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+} */
